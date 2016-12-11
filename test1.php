@@ -1,5 +1,5 @@
 <?php
 
-echo "Git hub test";
+echo "Git hub tutorial";
 
 ?>
