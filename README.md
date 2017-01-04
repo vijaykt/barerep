@@ -1,0 +1,2 @@
+# barerep
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e1454cf2372e46759feb3a818b2f4099)](https://www.codacy.com/app/vijaykthyd/barerep?utm_source=github.com&utm_medium=referral&utm_content=vijaykt/barerep&utm_campaign=badger)
